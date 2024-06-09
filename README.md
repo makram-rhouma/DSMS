@@ -1,2 +1,0 @@
-# DSMS
-DSMS v2
